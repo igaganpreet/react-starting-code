@@ -1,2 +1,2 @@
-# tic-tac-toe
+# BMI-Calculator
 Created with CodeSandbox
